@@ -4,4 +4,4 @@
 
 ## Stalo Autoupdater
 
-This is the main Repository to handle version control over stalo player. Go to [releases](https://github.com/Creatus-Desenvolvimento-de-Solucoes/stalo/releases) section to see the releases.
+This is the main Repository to handle version control over stalo player. Go to [releases](https://github.com/Creatus-Desenvolvimento-de-Solucoes/stalo/releases) section to see the releases or [download it now](https://github.com/Creatus-Desenvolvimento-de-Solucoes/stalo/releases/tag/autoupdater/Stalo.exe).
